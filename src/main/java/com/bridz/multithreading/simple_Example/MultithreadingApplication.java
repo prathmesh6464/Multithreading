@@ -1,4 +1,4 @@
-package com.bridz.multithreading.simple_Example;
+package com.bridz.multithreading.simple_example;
 
 class MultithreadDemo extends Thread {
 
